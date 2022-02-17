@@ -1,2 +1,0 @@
-File input_files/lot_of_lines.txt has too many lines.
-2
