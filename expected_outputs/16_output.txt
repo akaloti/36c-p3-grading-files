@@ -1,0 +1,645 @@
+     *
+     12345678901234567890
+*  1|In this assignment,
+   2|
+   3|you will implement
+   4|
+   5|a pretty terrible 
+   6|
+   7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|In this assignment,
+*  2|
+   3|you will implement
+   4|
+   5|a pretty terrible 
+   6|
+   7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|In this assignment,
+   2|
+*  3|you will implement
+   4|
+   5|a pretty terrible 
+   6|
+   7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|In this assignment,
+   2|
+   3|you will implement
+*  4|
+   5|a pretty terrible 
+   6|
+   7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|In this assignment,
+   2|
+   3|you will implement
+   4|
+*  5|a pretty terrible 
+   6|
+   7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|In this assignment,
+   2|
+   3|you will implement
+   4|
+   5|a pretty terrible 
+*  6|
+   7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|In this assignment,
+   2|
+   3|you will implement
+   4|
+   5|a pretty terrible 
+   6|
+*  7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|In this assignment,
+   2|
+   3|you will implement
+   4|
+   5|a pretty terrible 
+   6|
+   7|text editor in a 
+*  8|
+   9|C++ file called
+  10|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|In this assignment,
+   2|
+   3|you will implement
+   4|
+   5|a pretty terrible 
+   6|
+   7|text editor in a 
+   8|
+*  9|C++ file called
+  10|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|In this assignment,
+   2|
+   3|you will implement
+   4|
+   5|a pretty terrible 
+   6|
+   7|text editor in a 
+   8|
+   9|C++ file called
+* 10|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   2|
+   3|you will implement
+   4|
+   5|a pretty terrible 
+   6|
+   7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+* 11|editor.cpp. This
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   3|you will implement
+   4|
+   5|a pretty terrible 
+   6|
+   7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+  11|editor.cpp. This
+* 12|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   4|
+   5|a pretty terrible 
+   6|
+   7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+  11|editor.cpp. This
+  12|
+* 13|is the only file
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   5|a pretty terrible 
+   6|
+   7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+  11|editor.cpp. This
+  12|
+  13|is the only file
+* 14|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   6|
+   7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+  11|editor.cpp. This
+  12|
+  13|is the only file
+  14|
+* 15|that you will
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   7|text editor in a 
+   8|
+   9|C++ file called
+  10|
+  11|editor.cpp. This
+  12|
+  13|is the only file
+  14|
+  15|that you will
+* 16|
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   8|
+   9|C++ file called
+  10|
+  11|editor.cpp. This
+  12|
+  13|is the only file
+  14|
+  15|that you will
+  16|
+* 17|submit.
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   9|C++ file called
+  10|
+  11|editor.cpp. This
+  12|
+  13|is the only file
+  14|
+  15|that you will
+  16|
+* 17|submit.
+  18
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+  10|
+  11|editor.cpp. This
+  12|
+  13|is the only file
+  14|
+  15|that you will
+  16|
+* 17|submit.
+  18
+  19
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+  11|editor.cpp. This
+  12|
+  13|is the only file
+  14|
+  15|that you will
+  16|
+* 17|submit.
+  18
+  19
+  20
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+  12|
+  13|is the only file
+  14|
+  15|that you will
+  16|
+* 17|submit.
+  18
+  19
+  20
+  21
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+  13|is the only file
+  14|
+  15|that you will
+  16|
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+  14|
+  15|that you will
+  16|
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+  15|that you will
+  16|
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+  16|
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 16|
+  17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+     12345678901234567890
+Enter command: 
+      *
+     12345678901234567890
+* 16|
+  17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+     12345678901234567890
+Enter command: 
+       *
+     12345678901234567890
+* 16|
+  17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+     12345678901234567890
+Enter command: 
+      *
+     12345678901234567890
+* 16|
+  17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+     12345678901234567890
+Enter command: 
+      *
+     12345678901234567890
+* 15|that you will
+  16|
+  17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+     12345678901234567890
+Enter command: 
+      *
+     12345678901234567890
+  15|that you will
+* 16|
+  17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+     12345678901234567890
+Enter command: 
+      *
+     12345678901234567890
+  15|that you will
+  16|
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+     12345678901234567890
+Enter command: 
+      *
+     12345678901234567890
+  16|
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+     12345678901234567890
+Enter command: 
+      *
+     12345678901234567890
+* 17|submit.
+  18
+  19
+  20
+  21
+  22
+  23
+  24
+  25
+  26
+     12345678901234567890
+Enter command: 
+Goodbye!

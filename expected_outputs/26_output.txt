@@ -1,0 +1,150 @@
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|blah blah
+   2|blah blah blah blah
+   3|blah blah blah
+*  4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+*  6|blah
+   7
+   8
+   9
+  10
+  11
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+*  6|AHHHHHHHHHHHHHHHHHHH
+   7|HHHHHHHHHHHHHHHHHHHH
+   8|HHHHHHHHHHHHHHHHHHHH
+   9|HHHHHH
+  10
+  11
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  9|HHHHHH
+  10
+  11
+  12
+  13
+  14
+  15
+  16
+  17
+  18
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  9|AHHHHHHHHHHHHHHHHHHH
+  10|HHHHHHHHHHHHHHHHHHHH
+  11|HHHHHHHHHHHHHHHHHHHH
+  12|HHHHHH
+  13
+  14
+  15
+  16
+  17
+  18
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 12|HHHHHH
+  13
+  14
+  15
+  16
+  17
+  18
+  19
+  20
+  21
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 12|AHHHHHHHHHHHHHHHHHHH
+  13|HHHHHHHHHHHHHHHHHHHH
+  14|HHHHHHHHHHHHHHHHHHHH
+  15|HHHHHH
+  16
+  17
+  18
+  19
+  20
+  21
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+* 12|AHHHHHHHHHHHHHHHHHHH
+  13|HHHHHHHHHHHHHHHHHHHH
+  14|HHHHHHHHHHHHHHHHHHHH
+  15|HHHHHH
+  16
+  17
+  18
+  19
+  20
+  21
+     12345678901234567890
+Enter command: 
+Goodbye!
+=== input_files/file04.txt ===
+blah blah
+blah blah blah blah
+blah blah blah
+blah
+blah blah
+blah
+=== the_output.txt ===
+blah blah
+blah blah blah blah
+blah blah blah
+blah
+blah blah
+AHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHH
+AHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHH
+AHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHHHH
+HHHHHH

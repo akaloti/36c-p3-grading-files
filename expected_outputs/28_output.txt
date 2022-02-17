@@ -1,0 +1,229 @@
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|ABCh blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+Cannot undo.
+
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|10ah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|20ah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|30ah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|20ah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|10ah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|40ah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|10ah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|10ah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+Cannot undo.
+
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah blah blah blah
+   3|blah blah blah
+   4|blah
+   5|blah blah
+   6|blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+Goodbye!
+=== here_we_go.txt ===
+10ah blah
+blah blah blah blah
+blah blah blah
+blah
+blah blah
+blah
+=== here_we_go2.txt ===
+blah blah
+blah blah blah blah
+blah blah blah
+blah
+blah blah
+blah

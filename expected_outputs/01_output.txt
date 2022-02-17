@@ -1,0 +1,2 @@
+Too few command-line arguments.
+1

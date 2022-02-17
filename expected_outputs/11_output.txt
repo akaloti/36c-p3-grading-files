@@ -1,0 +1,351 @@
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|blah blah
+*  2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|blah blah
+   2|blah
+*  3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|blah blah
+   2|blah
+   3|blah blah blah
+*  4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|blah blah
+   2|blah
+   3|blah blah blah
+   4|blah
+*  5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|blah blah
+   2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+*  6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+*  6|blah blah
+   7
+   8
+   9
+  10
+  11
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+*  6|blah blah
+   7
+   8
+   9
+  10
+  11
+  12
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   4|blah
+   5|blah blah blah blah
+*  6|blah blah
+   7
+   8
+   9
+  10
+  11
+  12
+  13
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   5|blah blah blah blah
+*  6|blah blah
+   7
+   8
+   9
+  10
+  11
+  12
+  13
+  14
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  6|blah blah
+   7
+   8
+   9
+  10
+  11
+  12
+  13
+  14
+  15
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+  11
+  12
+  13
+  14
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+  11
+  12
+  13
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+  11
+  12
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+  11
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|blah blah
+*  2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+*  1|blah blah
+   2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+     *
+     12345678901234567890
+   1|blah blah
+*  2|blah
+   3|blah blah blah
+   4|blah
+   5|blah blah blah blah
+   6|blah blah
+   7
+   8
+   9
+  10
+     12345678901234567890
+Enter command: 
+Goodbye!
